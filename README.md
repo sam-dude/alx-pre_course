@@ -1,1 +1,1 @@
-This is alx first readme
+This is the alx git practice repo
